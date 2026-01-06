@@ -1,6 +1,6 @@
 # Tramitapp
 
-Aplicación web para gestionar los tramites ante la secretaria de transito en Colombia
+Aplicación web para gestionar los tramites ante la secretaria de transito en Colombia, base de datos gestionada por supabase y despliegue en vercel
 
 ## React + Vite
 
